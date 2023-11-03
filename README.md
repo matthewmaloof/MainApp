@@ -62,6 +62,6 @@ Contributions to both `MainApp` and `FindMyIP` are greatly appreciated. Feel fre
 
 ## Acknowledgments
 
-- [FindMyIP Library](https://github.com/yourusername/FindMyIP) - The core IP information library used in this app.
+- [FindMyIP Library](https://github.com/matthewmaloof/FindMyIP) - The core IP information library used in this app.
 - [SwiftUI](https://developer.apple.com/xcode/swiftui/)
 - [MapKit](https://developer.apple.com/documentation/mapkit/)
